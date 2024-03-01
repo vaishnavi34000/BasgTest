@@ -1,2 +1,2 @@
-# BasgTest
+# BashTest
 Git Bash Test
